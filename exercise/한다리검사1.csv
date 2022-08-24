@@ -1,0 +1,20 @@
+한발 서기,정적 CTSIB,동적 CTSIB,반무릎자세,롤링,네발기기자세 상-하체 교차 뻗기,result
+한발 서기:X_P:0_9:false,정적 CTSIB:X_P:6_1:true,,반무릎자세:X_P:6_3:false,롤링:P:6_4:true,NaN
+한발 서기:X_P:0_9:false,정적 CTSIB:X_P:6_1:true,,반무릎자세:X_P:6_3:false,롤링:X:6_4:true,NaN
+한발 서기:X_P:0_9:false,정적 CTSIB:X_P:6_1:true,,반무릎자세:X_P:6_3:false,롤링:O:6_4:false,네발기기자세 상-하체 교차 뻗기:P:6_5:true,NaN
+한발 서기:X_P:0_9:false,정적 CTSIB:X_P:6_1:true,,반무릎자세:X_P:6_3:false,롤링:O:6_4:false,네발기기자세 상-하체 교차 뻗기:X:6_5:true,NaN
+한발 서기:X_P:0_9:false,정적 CTSIB:X_P:6_1:true,,반무릎자세:X_P:6_3:false,롤링:O:6_4:false,네발기기자세 상-하체 교차 뻗기:O:6_5:true,NaN
+한발 서기:X_P:0_9:false,정적 CTSIB:X_P:6_1:true,,반무릎자세:O:6_3:false,NaN
+한발 서기:X_P:0_9:false,정적 CTSIB:O:6_1:false,동적 CTSIB:X_P:6_2:true,반무릎자세:X_P:6_3:false,롤링:P:6_4:true,NaN
+한발 서기:X_P:0_9:false,정적 CTSIB:O:6_1:false,동적 CTSIB:X_P:6_2:true,반무릎자세:X_P:6_3:false,롤링:X:6_4:true,NaN
+한발 서기:X_P:0_9:false,정적 CTSIB:O:6_1:false,동적 CTSIB:X_P:6_2:true,반무릎자세:X_P:6_3:false,롤링:O:6_4:false,네발기기자세 상-하체 교차 뻗기:P:6_5:true,NaN
+한발 서기:X_P:0_9:false,정적 CTSIB:O:6_1:false,동적 CTSIB:X_P:6_2:true,반무릎자세:X_P:6_3:false,롤링:O:6_4:false,네발기기자세 상-하체 교차 뻗기:X:6_5:true,NaN
+한발 서기:X_P:0_9:false,정적 CTSIB:O:6_1:false,동적 CTSIB:X_P:6_2:true,반무릎자세:X_P:6_3:false,롤링:O:6_4:false,네발기기자세 상-하체 교차 뻗기:O:6_5:true,NaN
+한발 서기:X_P:0_9:false,정적 CTSIB:O:6_1:false,동적 CTSIB:X_P:6_2:true,반무릎자세:O:6_3:false,NaN
+한발 서기:X_P:0_9:false,정적 CTSIB:O:6_1:false,동적 CTSIB:O:6_2:false,반무릎자세:X_P:6_3:false,롤링:P:6_4:true,NaN
+한발 서기:X_P:0_9:false,정적 CTSIB:O:6_1:false,동적 CTSIB:O:6_2:false,반무릎자세:X_P:6_3:false,롤링:X:6_4:true,NaN
+한발 서기:X_P:0_9:false,정적 CTSIB:O:6_1:false,동적 CTSIB:O:6_2:false,반무릎자세:X_P:6_3:false,롤링:O:6_4:false,네발기기자세 상-하체 교차 뻗기:P:6_5:true,NaN
+한발 서기:X_P:0_9:false,정적 CTSIB:O:6_1:false,동적 CTSIB:O:6_2:false,반무릎자세:X_P:6_3:false,롤링:O:6_4:false,네발기기자세 상-하체 교차 뻗기:X:6_5:true,NaN
+한발 서기:X_P:0_9:false,정적 CTSIB:O:6_1:false,동적 CTSIB:O:6_2:false,반무릎자세:X_P:6_3:false,롤링:O:6_4:false,네발기기자세 상-하체 교차 뻗기:O:6_5:true,NaN
+한발 서기:X_P:0_9:false,정적 CTSIB:O:6_1:false,동적 CTSIB:O:6_2:false,반무릎자세:O:6_3:false,NaN
+한발 서기:O:0_9:false,NaN

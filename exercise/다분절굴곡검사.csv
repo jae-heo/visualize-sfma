@@ -1,0 +1,34 @@
+다중 분절 굴곡,한발 전방 굽힘,다리펴고 앉아 손끝닿기 천추각 80도,롤링1,ASLR 70도,PSLR 80도,Prone rocking,롤링2,누운자세 허벅지 잡고 가슴 당기기,result
+다중 분절 굴곡:X_P:0_6:false,한발 전방 굽힘:X_P:3_1:false,다리펴고 앉아 손끝닿기 천추각 80도:X_P:3_2:false,,ASLR 70도:X_P:3_3:false,PSLR 80도:X_P:3_4:false,,,누운자세 허벅지 잡고 가슴 당기기:P:3_7:true,NaN
+다중 분절 굴곡:X_P:0_6:false,한발 전방 굽힘:X_P:3_1:false,다리펴고 앉아 손끝닿기 천추각 80도:X_P:3_2:false,,ASLR 70도:X_P:3_3:false,PSLR 80도:X_P:3_4:false,,,누운자세 허벅지 잡고 가슴 당기기:X:3_7:true,NaN
+다중 분절 굴곡:X_P:0_6:false,한발 전방 굽힘:X_P:3_1:false,다리펴고 앉아 손끝닿기 천추각 80도:X_P:3_2:false,,ASLR 70도:X_P:3_3:false,PSLR 80도:X_P:3_4:false,,,누운자세 허벅지 잡고 가슴 당기기:O:3_7:true,NaN
+다중 분절 굴곡:X_P:0_6:false,한발 전방 굽힘:X_P:3_1:false,다리펴고 앉아 손끝닿기 천추각 80도:X_P:3_2:false,,ASLR 70도:X_P:3_3:false,PSLR 80도:O:3_4:true,Prone rocking:P:3_6:true,NaN
+다중 분절 굴곡:X_P:0_6:false,한발 전방 굽힘:X_P:3_1:false,다리펴고 앉아 손끝닿기 천추각 80도:X_P:3_2:false,,ASLR 70도:X_P:3_3:false,PSLR 80도:O:3_4:true,Prone rocking:X:3_6:true,NaN
+다중 분절 굴곡:X_P:0_6:false,한발 전방 굽힘:X_P:3_1:false,다리펴고 앉아 손끝닿기 천추각 80도:X_P:3_2:false,,ASLR 70도:X_P:3_3:false,PSLR 80도:O:3_4:true,Prone rocking:O:3_6:false,롤링2:P:3_5:true,NaN
+다중 분절 굴곡:X_P:0_6:false,한발 전방 굽힘:X_P:3_1:false,다리펴고 앉아 손끝닿기 천추각 80도:X_P:3_2:false,,ASLR 70도:X_P:3_3:false,PSLR 80도:O:3_4:true,Prone rocking:O:3_6:false,롤링2:X:3_5:true,NaN
+다중 분절 굴곡:X_P:0_6:false,한발 전방 굽힘:X_P:3_1:false,다리펴고 앉아 손끝닿기 천추각 80도:X_P:3_2:false,,ASLR 70도:X_P:3_3:false,PSLR 80도:O:3_4:true,Prone rocking:O:3_6:false,롤링2:O:3_5:true,NaN
+다중 분절 굴곡:X_P:0_6:false,한발 전방 굽힘:X_P:3_1:false,다리펴고 앉아 손끝닿기 천추각 80도:X_P:3_2:false,,ASLR 70도:O:3_3:false,,Prone rocking:P:3_6:true,NaN
+다중 분절 굴곡:X_P:0_6:false,한발 전방 굽힘:X_P:3_1:false,다리펴고 앉아 손끝닿기 천추각 80도:X_P:3_2:false,,ASLR 70도:O:3_3:false,,Prone rocking:X:3_6:true,NaN
+다중 분절 굴곡:X_P:0_6:false,한발 전방 굽힘:X_P:3_1:false,다리펴고 앉아 손끝닿기 천추각 80도:X_P:3_2:false,,ASLR 70도:O:3_3:false,,Prone rocking:O:3_6:false,롤링2:P:3_5:true,NaN
+다중 분절 굴곡:X_P:0_6:false,한발 전방 굽힘:X_P:3_1:false,다리펴고 앉아 손끝닿기 천추각 80도:X_P:3_2:false,,ASLR 70도:O:3_3:false,,Prone rocking:O:3_6:false,롤링2:X:3_5:true,NaN
+다중 분절 굴곡:X_P:0_6:false,한발 전방 굽힘:X_P:3_1:false,다리펴고 앉아 손끝닿기 천추각 80도:X_P:3_2:false,,ASLR 70도:O:3_3:false,,Prone rocking:O:3_6:false,롤링2:O:3_5:true,NaN
+다중 분절 굴곡:X_P:0_6:false,한발 전방 굽힘:X_P:3_1:false,다리펴고 앉아 손끝닿기 천추각 80도:O:3_2:false,롤링1:P:3_5:true,NaN
+다중 분절 굴곡:X_P:0_6:false,한발 전방 굽힘:X_P:3_1:false,다리펴고 앉아 손끝닿기 천추각 80도:O:3_2:false,롤링1:X:3_5:true,NaN
+다중 분절 굴곡:X_P:0_6:false,한발 전방 굽힘:X_P:3_1:false,다리펴고 앉아 손끝닿기 천추각 80도:O:3_2:false,롤링1:O:3_5:true,NaN
+다중 분절 굴곡:X_P:0_6:false,한발 전방 굽힘:O:3_1:false,다리펴고 앉아 손끝닿기 천추각 80도:X_P:3_2:false,,ASLR 70도:X_P:3_3:false,PSLR 80도:X_P:3_4:false,,,누운자세 허벅지 잡고 가슴 당기기:P:3_7:true,NaN
+다중 분절 굴곡:X_P:0_6:false,한발 전방 굽힘:O:3_1:false,다리펴고 앉아 손끝닿기 천추각 80도:X_P:3_2:false,,ASLR 70도:X_P:3_3:false,PSLR 80도:X_P:3_4:false,,,누운자세 허벅지 잡고 가슴 당기기:X:3_7:true,NaN
+다중 분절 굴곡:X_P:0_6:false,한발 전방 굽힘:O:3_1:false,다리펴고 앉아 손끝닿기 천추각 80도:X_P:3_2:false,,ASLR 70도:X_P:3_3:false,PSLR 80도:X_P:3_4:false,,,누운자세 허벅지 잡고 가슴 당기기:O:3_7:true,NaN
+다중 분절 굴곡:X_P:0_6:false,한발 전방 굽힘:O:3_1:false,다리펴고 앉아 손끝닿기 천추각 80도:X_P:3_2:false,,ASLR 70도:X_P:3_3:false,PSLR 80도:O:3_4:true,Prone rocking:P:3_6:true,NaN
+다중 분절 굴곡:X_P:0_6:false,한발 전방 굽힘:O:3_1:false,다리펴고 앉아 손끝닿기 천추각 80도:X_P:3_2:false,,ASLR 70도:X_P:3_3:false,PSLR 80도:O:3_4:true,Prone rocking:X:3_6:true,NaN
+다중 분절 굴곡:X_P:0_6:false,한발 전방 굽힘:O:3_1:false,다리펴고 앉아 손끝닿기 천추각 80도:X_P:3_2:false,,ASLR 70도:X_P:3_3:false,PSLR 80도:O:3_4:true,Prone rocking:O:3_6:false,롤링2:P:3_5:true,NaN
+다중 분절 굴곡:X_P:0_6:false,한발 전방 굽힘:O:3_1:false,다리펴고 앉아 손끝닿기 천추각 80도:X_P:3_2:false,,ASLR 70도:X_P:3_3:false,PSLR 80도:O:3_4:true,Prone rocking:O:3_6:false,롤링2:X:3_5:true,NaN
+다중 분절 굴곡:X_P:0_6:false,한발 전방 굽힘:O:3_1:false,다리펴고 앉아 손끝닿기 천추각 80도:X_P:3_2:false,,ASLR 70도:X_P:3_3:false,PSLR 80도:O:3_4:true,Prone rocking:O:3_6:false,롤링2:O:3_5:true,NaN
+다중 분절 굴곡:X_P:0_6:false,한발 전방 굽힘:O:3_1:false,다리펴고 앉아 손끝닿기 천추각 80도:X_P:3_2:false,,ASLR 70도:O:3_3:false,,Prone rocking:P:3_6:true,NaN
+다중 분절 굴곡:X_P:0_6:false,한발 전방 굽힘:O:3_1:false,다리펴고 앉아 손끝닿기 천추각 80도:X_P:3_2:false,,ASLR 70도:O:3_3:false,,Prone rocking:X:3_6:true,NaN
+다중 분절 굴곡:X_P:0_6:false,한발 전방 굽힘:O:3_1:false,다리펴고 앉아 손끝닿기 천추각 80도:X_P:3_2:false,,ASLR 70도:O:3_3:false,,Prone rocking:O:3_6:false,롤링2:P:3_5:true,NaN
+다중 분절 굴곡:X_P:0_6:false,한발 전방 굽힘:O:3_1:false,다리펴고 앉아 손끝닿기 천추각 80도:X_P:3_2:false,,ASLR 70도:O:3_3:false,,Prone rocking:O:3_6:false,롤링2:X:3_5:true,NaN
+다중 분절 굴곡:X_P:0_6:false,한발 전방 굽힘:O:3_1:false,다리펴고 앉아 손끝닿기 천추각 80도:X_P:3_2:false,,ASLR 70도:O:3_3:false,,Prone rocking:O:3_6:false,롤링2:O:3_5:true,NaN
+다중 분절 굴곡:X_P:0_6:false,한발 전방 굽힘:O:3_1:false,다리펴고 앉아 손끝닿기 천추각 80도:O:3_2:false,롤링1:P:3_5:true,NaN
+다중 분절 굴곡:X_P:0_6:false,한발 전방 굽힘:O:3_1:false,다리펴고 앉아 손끝닿기 천추각 80도:O:3_2:false,롤링1:X:3_5:true,NaN
+다중 분절 굴곡:X_P:0_6:false,한발 전방 굽힘:O:3_1:false,다리펴고 앉아 손끝닿기 천추각 80도:O:3_2:false,롤링1:O:3_5:true,NaN
+다중 분절 굴곡:O:0_6:false,NaN
