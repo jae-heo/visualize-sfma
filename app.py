@@ -58,9 +58,9 @@ def draw_rectangle(image, location, details):
 
 
 if __name__ == "__main__":
-    for filename in os.listdir('data'):
+    for filename in os.listdir('data1'):
         imagecount = 0
-        data = pd.read_csv("data/{}".format(filename), sep=",", engine='c')
+        data = pd.read_csv("data1/{}".format(filename), sep=",", engine='c')
         data.drop(data.columns[-1], axis=1, inplace=True)
         data.fillna(0, inplace=True)
         img = np.zeros((Y, X, 3), np.uint8)
